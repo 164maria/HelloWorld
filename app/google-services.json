@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337982252695",
+    "project_id": "nu-stiu-nici-eu",
+    "storage_bucket": "nu-stiu-nici-eu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337982252695:android:7aca3c7be8ea48b7c12bd2",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337982252695-abv10c2rrvq6ppdaq11ab964eqr6b7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSeQYqa5lUHBGfyuWOWFgr1FA31-7lmWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337982252695-abv10c2rrvq6ppdaq11ab964eqr6b7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
